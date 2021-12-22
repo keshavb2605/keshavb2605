@@ -4,7 +4,7 @@ KESHAV B
 - 👋 Hi, I’m @keshavb2605
 - 👀 I’m interested in Embedded Design and software
 - 🌱 I’m currently learning In KLE Technological University
--     Electronics and Communication Student
+- 😬 Electronics and Communication Student
 - 💞️ I’m looking to collaborate on various projects
 - 📫 Contact me : keshavb2092@gmail.com
   
